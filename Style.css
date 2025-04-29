@@ -1,0 +1,22 @@
+
+    #main{
+    height: 200px;
+    width: 1300px;
+}
+div{
+    border: 3px solid black;
+    height: 52vh;
+    width: 1300px;
+    background-color: black;
+}
+.btn{
+    
+background-color: black;
+color: white;
+height: 50px;
+width: 60px;
+border: 1px solid white;
+}
+.btn:hover{
+    background-color:gray;
+}
